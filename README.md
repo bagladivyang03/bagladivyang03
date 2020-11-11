@@ -1,6 +1,5 @@
-## Hi there 👋
+## Hi there I am Divyang Bagla. 👋
 
-I am Divyang Bagla. I consider myself as a responsible and determined team player. I am a front end developer and a competitive programmer.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bagladivyang03" alt="bagladivyang03" /> </p>
 
