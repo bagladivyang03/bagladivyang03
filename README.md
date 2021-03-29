@@ -3,7 +3,7 @@
 - 👨‍💻 Currently working on **Open Source Projects**
 - 💬 Ask me about **Web Development & Open Source**
 - 👨‍💻 All of my projects are available **here**
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Vue js**
 - 📫 How to reach me: **bagladivyang03@gmail.com**
 
 
