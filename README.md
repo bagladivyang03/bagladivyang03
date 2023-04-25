@@ -1,9 +1,8 @@
 ## Hi there I am Divyang Bagla. 👋
 
-- 👨‍💻 Currently working on **Open Source Projects**
-- 💬 Ask me about **Web Development & Open Source**
+- 👨‍💻 Currently working as **Devops Engineer @Icertis**
 - 👨‍💻 All of my projects are available **here**
-- 🌱 I’m currently learning **Vue js**
+- 🌱 I’m currently learning **Docker, Kubernetes**
 - 📫 How to reach me: **bagladivyang03@gmail.com**
 
 
